@@ -1,6 +1,6 @@
 {
   "name": "@atp-connector-test-org/atp-connector-package-fixture",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "private": false,
   "description": "Disposable org-scoped package fixture for GitHub connector testing."
 }
